@@ -1,4 +1,5 @@
 include requirements.txt
+an amazing project
 include LICENSE
 include README.md
 include eagle/addons/mail/static/scripts/eagle-mailgate.py
